@@ -1,0 +1,16 @@
+{
+  "name": "cdwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taku5151/CDWork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taku5151/CDWork/issues"
+  },
+  "homepage": "https://github.com/Taku5151/CDWork#readme"
+}
